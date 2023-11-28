@@ -1,2 +1,3 @@
 # WISECP-module-Mikrotik-WireGuard-Business-VPN
-Simplify VPN integration for IT companies. Perfect for business clients managing VPN accounts.
+Simplify VPN integration with Mikrotik WireGuard WHMCS module. Perfect for business clients managing VPN accounts.
+
